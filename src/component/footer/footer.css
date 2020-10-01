@@ -1,0 +1,19 @@
+.row{
+    width: 100%;
+    color: white;  
+    background-color: rgb(7, 105, 167);
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 20px;
+    height: 200px;
+}
+.color{
+    color: white;
+}
+.information2{
+    margin-top: 400px;
+    margin-right: 10px;
+    margin-left: 10px
+}

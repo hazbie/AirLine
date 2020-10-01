@@ -1,0 +1,13 @@
+.form{
+    width: 80%;
+    text-align: center;
+    background: linear-gradient(to bottom right, rgb(240, 248, 255) 40%, #f8eff8 65%);
+    margin: 50px auto;
+}
+.search-flights{
+    background-color: lightskyblue;
+    color: white;
+    padding: 14px 20px;
+    width: 10%;
+}
+  

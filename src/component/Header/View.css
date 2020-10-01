@@ -1,0 +1,20 @@
+.header {
+    height: 80px;
+}
+.hButton{
+    background-color: lightskyblue;
+    color: white;
+    padding: 1%;
+    cursor: pointer;
+    width: 10%;
+}
+.signoutButton{
+    background-color: lightskyblue;
+    color: white;
+    padding: 1%;
+    cursor: pointer;
+    width: 10%;
+    position: absolute;
+    left: 486.5px;
+    top: 0px;
+}

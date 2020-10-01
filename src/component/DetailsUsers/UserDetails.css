@@ -1,0 +1,13 @@
+.heading{
+    font-size: 22px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color:lightskyblue;
+}
+
+.heading2{
+    font-size: 18px;
+    color: rgb(5, 12, 109);
+    font-style: italic;
+    text-decoration: underline;
+}
